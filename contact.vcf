@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Marco Monteiro
+N:Monteiro;Marco;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:marco@marcomonteiro.net
+TEL;TYPE=WORK:917057804
+ADR;TYPE=HOME:;;Coimbra;;;;
+TITLE:Webdeveloper
+BDAY:1986-05-29
+URL;TYPE=HOME:www.marcomonteiro.net
+URL;TYPE=HOME:blog.marcomonteiro.net
+NOTE:Sci-fi aficionado who talks to the Internet with a drunken accent whil
+ e playing games. Also a webdev.
+END:VCARD
